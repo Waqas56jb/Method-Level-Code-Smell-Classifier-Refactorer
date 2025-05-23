@@ -1,0 +1,7 @@
+pandas==2.2.2
+numpy==1.26.4
+tensorflow==2.16.1  # For building and training the RNN/LSTM model
+scikit-learn==1.5.0  # For data splitting and evaluation metrics
+javalang==0.13.0  # For parsing Java code (if tokenizing code snippets)
+matplotlib==3.9.0  # For plotting evaluation metrics
+seaborn==0.13.2  # For better visualizations
